@@ -18,10 +18,9 @@ $(document).ready(function() {
 			$('header')
 				.css('background-image','url("'+ carouselImages[caroIndex] + '")')
 				.fadeIn(1000, function(){setTimeout(carousel,12000);});
-                
-        
 		caroIndex++;
 		caroIndex = caroIndex % carouselImages.length;
 	};
 	carousel();
 });
+
