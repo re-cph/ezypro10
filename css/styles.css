@@ -435,9 +435,6 @@ header .only-logo .navbar .navbar-header img {
     margin-left: 24px;
 }
 
-.textslideshow-element{
-    
-}
 /*---------------------------------------
    SECTION:  INTRO SECTION
 -----------------------------------------*/
@@ -450,7 +447,6 @@ header .intro-section {
 header .intro-section h1.intro {
     color: #ffffff;
     margin-bottom: 36px;
-        
 }
 
 header .intro-section h5 {
